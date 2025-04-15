@@ -22,3 +22,23 @@ This repository contains infrastructure and architecture deployment of a basic c
 
 This project is part of my Cloud Journey, showing hands-on infrastructure setup and system design principles.
 
+## Cloud Web App Architecture
+
+This visual represents the infrastructure for hosting a simple web app using AWS and Azure.
+
+### AWS Architecture:
+- **EC2**: To host the web app.
+- **S3**: For static file storage.
+- **RDS**: For relational database.
+- **VPC**: To manage networking.
+
+### Azure Architecture:
+- **VM**: To host the web app.
+- **Blob Storage**: For static file storage.
+- **SQL DB**: For relational database.
+- **VNet**: To manage networking.
+
+![System Architecture] https://drive.google.com/file/d/1pWNZyE8YwScfCUQ88wRTe5a5Ea7ZiMbw/view?usp=drive_link
+
+
+
